@@ -1,7 +1,7 @@
 # RosettaRavenAAMFeatures
 AAM features - full face and lips only. Matlab files.
 
-Dataset first presented for finding a lower resolution limit for machine lip-reading. AAM features (full face and lip-only) are provided along with the original videos.
+Dataset first presented for finding a lower resolution limit for machine lip-reading. Shape and appearance models are provided for all parts of the face for you to augment as best for your own research. Original videos can be found from Dr Eamonn Keogh UCR. 
 
 All future use of the dataset must reference the publication below.
 
